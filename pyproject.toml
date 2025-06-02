@@ -1,7 +1,7 @@
 [project]
 name = "multi-pdf-chatbot"
 version = "0.1.0"
-description = "Add your description here"
+description = "The MultiPDF Chat App is a Python application that allows you to chat with multiple PDF documents."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
